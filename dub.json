@@ -1,0 +1,9 @@
+{
+	"name": "xmpp-d",
+	"description": "A XMPP client library",
+	"copyright": "Copyright © 2015, Dan Printzell",
+	"authors": ["Dan Printzell"],
+	"dependencies": {
+		"kxml": "~>1.0.1"
+	}
+}
