@@ -4,6 +4,7 @@
 	"copyright": "Copyright © 2015, Dan Printzell",
 	"authors": ["Dan Printzell"],
 	"dependencies": {
+		"openssl": "~>1.1.4+1.0.1g",
 		"kxml": "~>1.0.1"
 	}
 }
